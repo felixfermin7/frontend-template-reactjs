@@ -1,9 +1,10 @@
-// src/server.js
-
 const express = require('express');
 const cors = require('cors');
+const dotenv = require('dotenv');
+
+dotenv.config(); // Load environment variables
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; // Use PORT from environment variables or default to 3000
 
 // Middleware to parse JSON requests
 
