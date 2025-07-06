@@ -18,5 +18,9 @@
   "homepage": "https://github.com/felixfermin7/frontend-template-reactjs#readme",
   "devDependencies": {
     "jest": "^30.0.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
   }
 }
