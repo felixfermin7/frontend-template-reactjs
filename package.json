@@ -1,0 +1,22 @@
+{
+  "name": "frontend-template-reactjs",
+  "version": "1.0.0",
+  "description": "This project is a frontend template built with ReactJS, utilizing Bootstrap for styling and layout. It serves as a starting point for developing React applications with a responsive design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixfermin7/frontend-template-reactjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixfermin7/frontend-template-reactjs/issues"
+  },
+  "homepage": "https://github.com/felixfermin7/frontend-template-reactjs#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
